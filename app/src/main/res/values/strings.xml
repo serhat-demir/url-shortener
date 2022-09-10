@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Url Shortener</string>
+    <string name="enter_the_link_here">Enter the link here</string>
+    <string name="shorten_url">Shorten URL</string>
+    <string name="short_url">Short Url</string>
+    <string name="copy_url">Copy Url</string>
+    <string name="url_copied">copied</string>
+</resources>
